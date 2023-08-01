@@ -24,7 +24,7 @@ export default function Home() {
 
 
      <div className=' p-8 m-4'>
-        <h2 className='p-4 text-center'>welcome here</h2>
+        <h2 className='p-4 text-center'>welcome Anisha here</h2>
         <p>L'Oréal S.A. is a French personal care company headquartered in Clichy, Hauts-de-Seine, with a  registered office in Paris. It is the world's largest cosmetics company </p>
         {/* <About/>y */}
     </div>
