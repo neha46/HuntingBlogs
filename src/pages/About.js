@@ -1,14 +1,14 @@
 import React from 'react';
-import Layout from '../component/layout/Layout'
+import RootLayout from '../RootLayout'
+import Head from 'next/head';
 
 const About =() => {
   return (
-  <Layout>
-< HEAD>
+  <RootLayout>
+
     
-      <h1 className='text-yellow-500'> welcome  here about us page</h1>
-      </HEAD> 
-  </Layout>
+      <h1 className='text-yellow-500'> welcome here about us page</h1>
+  </RootLayout>
 
   )
 }
