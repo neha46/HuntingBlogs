@@ -7,7 +7,7 @@ const About =() => {
   <RootLayout>
 
     
-      <h1 className='text-yellow-500'> welcome here about us page</h1>
+      <h1 className='text-yellow-500'> welcome here about page</h1>
   </RootLayout>
 
   )
